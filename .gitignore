@@ -1,0 +1,9 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Student data file
+student_data.txt.txt
+
+# IDE files
+.vscode/
